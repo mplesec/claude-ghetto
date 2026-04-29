@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <p style="font-size: 1rem;">Download/copy the `GHETTO.md` the file. Add `@GHETTO.md` somewhere in your `CLAUDE.md`.</p>
+  <p style="font-size: 1rem;">Download/copy the `GHETTO.md` file. Add `@GHETTO.md` somewhere in your `CLAUDE.md`.</p>
 </p>
